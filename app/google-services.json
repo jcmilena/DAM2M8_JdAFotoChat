@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902679744205",
+    "firebase_url": "https://jdafotochat-82972.firebaseio.com",
+    "project_id": "jdafotochat-82972",
+    "storage_bucket": "jdafotochat-82972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902679744205:android:6ce94fdc806a6515",
+        "android_client_info": {
+          "package_name": "com.example.juancarlosmilena.jdafotochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902679744205-d94nun9omgiamjafa0gfs48o4vutvfl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juancarlosmilena.jdafotochat",
+            "certificate_hash": "9f23ba9ec5480b90e901199d70b784267bd987df"
+          }
+        },
+        {
+          "client_id": "902679744205-9ej1elp5d3bmadbc6gus5ulf2b86dj0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7u1w-qsG5MeZeublkmwzD480CykBnn_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902679744205-9ej1elp5d3bmadbc6gus5ulf2b86dj0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
